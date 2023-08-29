@@ -15,5 +15,4 @@
     
 </div>
 
-  ![Snake animation](https://github.com/marcosgontijo/marcosgontijo/blob/output/github-contribution-grid-snake.svg)
 
