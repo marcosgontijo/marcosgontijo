@@ -1,5 +1,6 @@
 ### Olá eu sou Marcos  👋
-🔭 Atualmente estou desempregado. <br/>
+🔭 Atualmente estou desempregado. Meu ultimo trabalho foi Desenvolvedor back-end na MATERA <br/>
+🔭 Estou estudando Python | Django | Angular
 🌱 No momento desenvolvendo em Java | SpringBoot <br/>
 📫 Envie um e-mail marcoseduardogontijo@gmail.com <br/>
 
