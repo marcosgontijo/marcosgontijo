@@ -1,7 +1,7 @@
 ### Olá eu sou Marcos  👋
-🔭 Atualmente estou desempregado.
-🌱 No momento desenvolvendo em Java | SpringBoot
-📫 Envie um e-mail marcoseduardogontijo@gmail.com
+🔭 Atualmente estou desempregado. <br/>
+🌱 No momento desenvolvendo em Java | SpringBoot <br/>
+📫 Envie um e-mail marcoseduardogontijo@gmail.com <br/>
 
 
 <div align="center">
