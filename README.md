@@ -1,6 +1,7 @@
 ### Olá eu sou Marcos  👋
-- 🔭 Hoje trabalho com Desenvolvimento ( Desenvolvedor Back-End) ...
-- 📫 email: marcoseduardogontijo@gmail.com ...
+🔭 Atualmente estou desempregado.
+🌱 No momento desenvolvendo em Java | SpringBoot
+📫 Envie um e-mail marcoseduardogontijo@gmail.com
 
 
 <div align="center">
