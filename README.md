@@ -1,6 +1,6 @@
 ### Olá eu sou Marcos  👋
 🔭 Atualmente estou desempregado. Meu ultimo trabalho foi Desenvolvedor back-end na MATERA <br/>
-✏️ Estudando Go Lang <br/>
+
 🌍 Brasileiro<br/>
 📫 Envie um e-mail marcoseduardogontijo@gmail.com <br/>
 
