@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/ios/50/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL" style="width: 40px; height: 40px;">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="width: 40px; height: 40px;">
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" title="Kafka" style="width: 40px; height: 40px;">
+  <img src="https://img.icons8.com/ios/50/000000/apache-kafka.png" alt="Kafka" title="Kafka" style="width: 40px; height: 40px;">
   <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ" style="width: 40px; height: 40px;">
 </div>
 
