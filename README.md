@@ -7,7 +7,7 @@
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px; margin-right: 10px;">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svgs/brands/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" style="width: 40px; height: 40px;">
+  <img src="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svgs/brands/postgresql.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fpostgre_5968342&psig=AOvVaw2SLPWenHZqnsUULS7GKXMP&ust=1737490049405000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICu1vuMhYsDFQAAAAAdAAAAABAE)" alt="PostgreSQL" title="PostgreSQL" style="width: 40px; height: 40px;">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="width: 40px; height: 40px;">
   <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" title="Kafka" style="width: 40px; height: 40px;">
   <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ" style="width: 40px; height: 40px;">
