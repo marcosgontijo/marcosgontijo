@@ -47,7 +47,7 @@
 
 <h3>Principais Tecnologias ⚡</h3>
 <ul>
-  <li>Java 8, 11 e 22</li>
+  <li>Java 8, 11 e 17</li>
   <li>Javascript ES6</li>
   <li>Python 3</li>
   <li>Node.js</li>
