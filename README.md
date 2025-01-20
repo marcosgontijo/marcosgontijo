@@ -1,18 +1,73 @@
-### Olá eu sou Marcos  👋
+<h2>Olá, mundo 👋</h2>
+<p>Meu nome é <strong>Marcos Eduardo Gontijo</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados, Business Intelligence e Ciência de Dados!</p>
 
-<div align="center">
-  <a href="https://github.com/marcosgontijo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosgontijo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgontijo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p>Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!</p>
+
+<h3>Principais habilidades 🎆</h3>
+<ul>
+  <li>Desenvolvimento Back-End</li>
+  <li>Criação de API REST</li>
+  <li>Arquitetura REST e de microsserviços</li>
+  <li>Análise de dados</li>
+  <li>Extração, transformação e visualização de dados</li>
+  <li>Grande conhecimento e experiência em SQL</li>
+</ul>
+
+<h3>Acadêmico 👨‍💻</h3>
+<ul>
+  <li>Técnologo em Análise e Desenvolvimento de Sistemas | Wyden Unimetrocamp - Campinas 2019 - 2022. Concluído.</li>
+</ul>
+
+<h3>Experiências 💻</h3>
+<p><strong>+4 anos e meio de experiência no mercado de tecnologia</strong></p>
+
+<ul>
+  <li><strong>Atualmente:</strong> Atuando na empresa Galleriabank como Desenvolvedor FullStack, trabalhando com as seguintes tecnologias:</li>
+  <ul>
+    <li><strong>Backend:</strong> Desenvolvimento de serviços e aplicações robustas utilizando <strong>Java 8 11 e 17 </strong>, com foco em escalabilidade e performance.</li>
+    <li><strong>Spring Boot:</strong> Criação de APIs RESTful e microserviços, integrando segurança, gestão de dependências e configuração eficiente.</li>
+    <li><strong>JSF (JavaServer Faces):</strong> Desenvolvimento de interfaces ricas e dinâmicas para aplicações web empresariais, com foco em usabilidade e design responsivo.</li>
+  </ul>
+  <li><strong>Frontend:</strong> Implementação de interfaces web modernas e dinâmicas utilizando <strong>Angular</strong>, <strong>TypeScript</strong>, componentes reutilizáveis e integração eficiente com APIs backend.</li>
+  <li><strong>Banco de Dados:</strong> Modelagem, consultas avançadas, otimização de desempenho e gestão de bancos relacionais com <strong>PostgreSQL</strong>, além de utilização de <strong>DBeaver</strong> para gerenciamento e visualização de dados.</li>
+  <li><strong>Controle de Versão:</strong> Gestão de versionamento de código utilizando <strong>Git</strong>, aplicando práticas como branches, merge requests e revisão de código para garantir a qualidade do software.</li>
+</ul>
+
+<h3>Principais Tecnologias ⚡</h3>
+<ul>
+  <li>Java 8, 11 e 13</li>
+  <li>Javascript ES6</li>
+  <li>Python 3</li>
+  <li>Node.js</li>
+  <li>Angular</li>
+  <li>Autenticação e autorização com OAuth2.0 e JWT</li>
+  <li>Docker</li>
+  <li>Docker-compose</li>
+  <li>Bancos de dados Relacionais: PostgreSQL, Oracle 11g e 12c, Microsoft SQL Server, MySQL</li>
+  <li>Bancos de dados NoSQL: MongoDB</li>
+</ul>
+
+<h3>Principais Frameworks 🔨</h3>
+<ul>
+  <li>Spring Framework (Boot, Data JPA, Cloud e Security)</li>
+</ul>
+
+<h3>Principais bibliotecas 📕</h3>
+<ul>
+  <li>Lombok (Java)</li> 
+  <li>Spring Data JPA</li>
+  <li>Spring Security</li>
+  <li>Spring Cloud</li>
+</ul>
+
+<h3>📫 Como chegar até mim? Me mande mensagem via email</h3>
+
   
   <div> 
   <a href = "mailto:marcoseduardogontijo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-eduardo-46a451148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
-
- ![Snake animation](https://github.com/marcosgontijo/marcosgontijo/blob/output/github-contribution-grid-snake.svg)
 
 
 
