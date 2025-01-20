@@ -8,11 +8,12 @@
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
+</div>
+
+<div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Apache_Kafka_logo.svg" alt="Kafka" title="Kafka" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
-
-
 
 <h2>Olá, mundo 👋</h2>
 <p>Meu nome é <strong>Marcos Eduardo Gontijo</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados, Business Intelligence e Ciência de Dados!</p>
