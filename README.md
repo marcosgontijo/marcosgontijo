@@ -8,6 +8,7 @@
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
 
 <h2>Olá, mundo 👋</h2>
