@@ -13,7 +13,7 @@
 </div>
 
 <h2>Olá, mundo 👋</h2>
-<p>Meu nome é <strong>Marcos Eduardo Gontijo</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados, Business Intelligence e Ciência de Dados!</p>
+<p>Meu nome é <strong>Marcos Eduardo Gontijo</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados, Ciência de Dados!</p>
 
 <p>Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!</p>
 
