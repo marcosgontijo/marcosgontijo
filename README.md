@@ -10,6 +10,7 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" title="Oracle" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
 
 <h2>Olá, mundo 👋</h2>
