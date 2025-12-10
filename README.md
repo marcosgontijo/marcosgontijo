@@ -49,7 +49,7 @@
 <br>
 
 <h3>💻 Experiência Profissional</h3>
-<p><strong>+4 anos e meio de experiência no mercado de tecnologia</strong></p>
+<p><strong>+5 anos e meio de experiência no mercado de tecnologia</strong></p>
 
 <ul>
   <li><strong>Atualmente:</strong> Desenvolvedor Backend Pleno na <strong>KAFFA</strong>, atuando no time de implantação e customização de produto.</li>
