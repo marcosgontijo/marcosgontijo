@@ -56,7 +56,7 @@
   <li>Arquitetura REST e de microsserviços</li>
   <li>Análise de dados</li>
   <li>Extração, transformação e visualização de dados</li>
-  <li>Grande conhecimento e experiência em SQL</li>
+  <li>Conhecimento e experiência em SQL</li>
 </ul>
 
 <h3>Acadêmico 👨‍💻</h3>
