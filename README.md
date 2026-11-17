@@ -19,6 +19,29 @@ No dia a dia escrevo **Kotlin** e **Java 21** com **Spring Boot**, desenho integ
 
 Fora do horário, estudo arquitetura de microsserviços e como colocar **agentes de IA** para trabalhar com regras claras: testes congelados, revisão independente e nenhum agente aprovando o próprio trabalho.
 
+E nas horas vagas estou desenvolvendo e publicando o meu próprio app: o **Verbly**, que está chegando à Google Play.
+
+## Lançando agora: Verbly
+
+<p align="center">
+  <a href="https://marcosgontijo.github.io/verbly-site/testadores/">
+    <img src="assets/verbly-banner.png" alt="Verbly: app Android para praticar verbos em inglês no presente, passado e futuro montando frases com blocos" width="100%">
+  </a>
+</p>
+
+<img src="assets/verbly-icon.png" alt="Ícone do Verbly" width="64" align="left">
+
+**[Verbly](https://marcosgontijo.github.io/verbly-site/testadores/)** · App Android que criei do zero para praticar verbos em inglês no presente, passado e futuro, montando a tradução com blocos de palavras. Nasceu de uma necessidade minha: meu professor passou uma lista enorme de verbos e eu queria praticar com correção automática.
+
+<br clear="left">
+
+- **300 verbos e 1.500 conjuntos de frases**, além de dois modos extras: *noun adjuncts* ("a box of shoes" → "a shoe box") e perguntas com *do/does*
+- **Offline e sem login:** validação local, sem backend, sem anúncios e sem coleta de dados; o progresso fica salvo no aparelho (SQLite)
+- Ouve a frase em inglês com a voz do aparelho (TTS), feedback do erro e status de cada verbo: novo, praticando, dominado
+- **Flutter + Dart** com Riverpod, arquitetura MVC por feature e regras de negócio como funções puras com testes unitários; o conteúdo é gerado e validado por um pipeline em Python
+- Desenvolvido com Claude Code, com agentes de teste e de segurança revisando as entregas
+- **Status:** em teste fechado na Play Store antes do lançamento. Tem Android? [Seja um testador →](https://marcosgontijo.github.io/verbly-site/testadores/) · [Política de privacidade](https://marcosgontijo.github.io/verbly-site/)
+
 ## Destaques
 
 - **Integrações de alta volumetria:** APIs de integração com o ERP Matera, Serasa e Fácil; os fluxos de cadastro de clientes bancários e emissão de nota fiscal rodam via **Kafka** pelo volume de dados
@@ -32,7 +55,6 @@ Fora do horário, estudo arquitetura de microsserviços e como colocar **agentes
 
 - **[agentes-loop](https://github.com/marcosgontijo/agentes-loop)** · Loop de agentes para o Claude Code: analista, developer, tester, reviewer e finalizador. A tarefa só termina quando três sinais independentes concordam (gate de testes, review e veredito). Usado para migrar o CorteCerto de Angular para Flutter: 3 fases, 502 testes no fim.
 - **[CorteCerto Mobile](https://github.com/marcosgontijo/cortecerto_app_flutter)** · App Flutter de agendamento para barbearias, com API REST em Java Spring Boot, login JWT, agenda em tempo real e bloqueio automático de horários ocupados.
-- **[Verbly](https://marcosgontijo.github.io/verbly-site/)** · App próprio; o site público com a política de privacidade fica em [verbly-site](https://github.com/marcosgontijo/verbly-site).
 - **[estudo_kafka](https://github.com/marcosgontijo/estudo_kafka)** · Microsserviços com o padrão Saga orquestrado: Java 17, Spring Boot 3, Apache Kafka, PostgreSQL, MongoDB e Docker.
 
 Também por aqui: [crud-go](https://github.com/marcosgontijo/crud-go), [robo_apontamento](https://github.com/marcosgontijo/robo_apontamento-), [curso-angular](https://github.com/marcosgontijo/curso-angular). [Todos os repositórios →](https://github.com/marcosgontijo?tab=repositories)
