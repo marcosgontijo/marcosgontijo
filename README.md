@@ -1,109 +1,48 @@
-<h2 align="center">👨‍💻 Desenvolvedor Back-End & Analista de Dados</h2>
-
-<h3>Principais Tecnologias ⚡</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" width="40" height="40">
-
-</div>
-
-<br>
-
-<h2>👋 Olá, mundo!</h2>
-<p>Meu nome é <strong>Marcos Eduardo Gontijo</strong>, sou um Desenvolvedor Back-End apaixonado por APIs REST, microsserviços, integrações complexas e análise de dados.</p>
-
-<p>Atualmente busco aprimorar minhas habilidades e me tornar um desenvolvedor cada vez mais completo, estudando constantemente novas tecnologias, arquiteturas e boas práticas de engenharia de software.</p>
-
-<br>
-
-<h3>🎆 Principais Habilidades</h3>
-<ul>
-  <li>Desenvolvimento Back-End (Java & Kotlin)</li>
-  <li>Criação e manutenção de APIs REST</li>
-  <li>Arquitetura REST e microsserviços</li>
-  <li>Análise, extração e transformação de dados</li>
-  <li>Consultas SQL e modelagem de bancos relacionais</li>
-  <li>Integrações corporativas (SAP / REST)</li>
-</ul>
-
-<br>
-
-<h3>👨‍🎓 Formação Acadêmica</h3>
-<ul>
-  <li><strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>  
-      Wyden Unimetrocamp - Campinas (2019 - 2022)</li>
-</ul>
-
-<br>
-
-<h3>💻 Experiência Profissional</h3>
-<p><strong>+5 anos e meio de experiência no mercado de tecnologia</strong></p>
-
-<ul>
-  <li><strong>Atualmente:</strong> Desenvolvedor Backend Pleno na <strong>KAFFA</strong>, atuando no time de implantação e customização de produto.</li>
-
-  <ul>
-    <li><strong>Backend:</strong> Desenvolvimento em <strong>Java 8</strong> e <strong>Kotlin</strong> em produtos corporativos robustos.</li>
-    <li><strong>Processos:</strong> Orquestração de jobs com <strong>Nomad Hashicorp</strong> e workflows com <strong>Camunda BPM</strong>.</li>
-    <li><strong>Integrações:</strong> Desenvolvimento de integrações REST e integração com <strong>SAP</strong>.</li>
-    <li><strong>Banco de Dados:</strong> PostgreSQL, Oracle, SQLite utilizando DBeaver.</li>
-    <li><strong>CI/CD:</strong> Acompanhamento e execução de pipelines.</li>
-    <li><strong>Testes:</strong> Testes unitários em Kotlin com mocks.</li>
-    <li><strong>Arquitetura:</strong> Uso de padrões como Singleton e herança com mixins.</li>
-  </ul>
-</ul>
-
-<br>
-
-<h3>⚡ Outras Tecnologias</h3>
-<ul>
-  <li>Docker & Docker Compose</li>
-  <li>Node.js</li>
-  <li>MongoDB</li>
-  <li>Angular + TypeScript</li>
-  <li>OAuth2.0 e JWT</li>
-</ul>
-
-<br>
-
-<h3>🔨 Frameworks</h3>
-<ul>
-  <li>Spring Boot</li>
-  <li>Spring Data JPA</li>
-  <li>Spring Security</li>
-  <li>Spring Cloud</li>
-</ul>
-
-<br>
-
-<h3>📕 Bibliotecas & Ferramentas</h3>
-<ul>
-  <li>Lombok</li>
-  <li>Postman</li>
-  <li>Git & GitHub</li>
-</ul>
-
-<br>
-
-<h3>📫 Como falar comigo?</h3>
-<div>
-  <a href="mailto:marcoseduardogontijo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<p align="center">
+  <a href="https://github.com/marcosgontijo">
+    <img src="assets/banner.gif" alt="Marcos Gontijo, Desenvolvedor Back-End Pleno: eu construo backends que aguentam o tranco" width="100%">
   </a>
+</p>
 
-  <a href="https://www.linkedin.com/in/marcos-gontijo-46a451148/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-gontijo-46a451148/"><img alt="LinkedIn" src="assets/badge-linkedin.png" height="30"></a>
+  <a href="mailto:marcoseduardogontijo@gmail.com"><img alt="email" src="assets/badge-email.png" height="30"></a>
+  <a href="https://github.com/marcosgontijo?tab=repositories"><img alt="GitHub" src="assets/badge-github.png" height="30"></a>
+  <img alt="Campinas, SP" src="assets/badge-location.png" height="30">
+</p>
+
+---
+
+Desenvolvedor Back-End Pleno em Campinas, SP. Mais de 5 anos e meio no mercado de tecnologia, hoje na **KAFFA**, no time de implantação e customização de produto. Escrevo **Java 8** e **Kotlin** em produtos corporativos, orquestro jobs com **Nomad** e workflows com **Camunda BPM**, e faço a ponte entre sistemas: integrações REST e **SAP**, PostgreSQL, Oracle e SQLite por baixo de tudo.
+
+Fora do horário, estudo arquitetura de microsserviços, mensageria com Kafka e como colocar **agentes de IA** para trabalhar com regras claras: testes congelados, revisão independente e nenhum agente aprovando o próprio trabalho.
+
+## Destaques
+
+- **+5 anos e meio** em produção: APIs REST, microsserviços, integrações corporativas e análise de dados
+- Backend em **Java & Kotlin** com testes unitários e mocks, rodando em pipelines de CI/CD
+- Integrações **SAP / REST** e orquestração de processos com **Camunda BPM** e **Nomad Hashicorp**
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas**, Wyden Unimetrocamp (2019 a 2022)
+
+## Construindo agora
+
+- **[agentes-loop](https://github.com/marcosgontijo/agentes-loop)** · Loop de agentes para o Claude Code: analista, developer, tester, reviewer e finalizador. A tarefa só termina quando três sinais independentes concordam (gate de testes, review e veredito). Usado para migrar o CorteCerto de Angular para Flutter: 3 fases, 502 testes no fim.
+- **[CorteCerto Mobile](https://github.com/marcosgontijo/cortecerto_app_flutter)** · App Flutter de agendamento para barbearias, com API REST em Java Spring Boot, login JWT, agenda em tempo real e bloqueio automático de horários ocupados.
+- **[Verbly](https://marcosgontijo.github.io/verbly-site/)** · App próprio; o site público com a política de privacidade fica em [verbly-site](https://github.com/marcosgontijo/verbly-site).
+- **[estudo_kafka](https://github.com/marcosgontijo/estudo_kafka)** · Microsserviços com o padrão Saga orquestrado: Java 17, Spring Boot 3, Apache Kafka, PostgreSQL, MongoDB e Docker.
+
+Também por aqui: [crud-go](https://github.com/marcosgontijo/crud-go), [robo_apontamento](https://github.com/marcosgontijo/robo_apontamento-), [curso-angular](https://github.com/marcosgontijo/curso-angular). [Todos os repositórios →](https://github.com/marcosgontijo?tab=repositories)
+
+## Stack
+
+- **Linguagens:** Java, Kotlin, TypeScript, Python, Go, Dart
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, Spring Cloud, Angular, Flutter
+- **Dados:** PostgreSQL, Oracle, SQLite, MongoDB, Kafka
+- **Infra & ferramentas:** Docker & Compose, Jenkins, Nomad, Camunda, Git, Postman, DBeaver, Lombok
+- **Segurança:** OAuth 2.0, JWT
+
+## Vamos conversar
+
+Aberto a conversas sobre backend, integrações e projetos com agentes de IA. Respondo rápido.
+
+[marcoseduardogontijo@gmail.com](mailto:marcoseduardogontijo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marcos-gontijo-46a451148/)
