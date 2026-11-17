@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcosgontijo">
-    <img src="assets/banner.gif" alt="Marcos Gontijo, Desenvolvedor de Software Sênior: eu construo backends que aguentam o tranco" width="100%">
+    <img src="assets/banner.gif" alt="Marcos Gontijo, Desenvolvedor de Software Sênior: construo sistemas escaláveis e com segurança" width="100%">
   </a>
 </p>
 
